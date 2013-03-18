@@ -1,0 +1,16 @@
+
+.classpath
+
+.project
+
+.settings/org.eclipse.jdt.core.prefs
+
+bin/.DS_Store
+
+bin/com/.DS_Store
+
+*.class
+
+src/.DS_Store
+
+src/com/.DS_Store
